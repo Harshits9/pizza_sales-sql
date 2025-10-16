@@ -3,7 +3,9 @@
 This project analyzes pizza sales data using various types of SQL queries, ranging from basic retrievals to advanced analysis.  
 The goal is to demonstrate how SQL can be applied to answer real business questions and uncover insights.  
 
-![DataModelOverview](https://github.com/<your-username>/<repo-name>/blob/main/<image-name>.png)
+![DataModelPreview](DatamodelSql.png)
+![Questions Preview](Questions.png)
+![Query Preview](Query.png)
 
 
 ## 📂 Project Structure  
