@@ -3,6 +3,9 @@
 This project analyzes pizza sales data using various types of SQL queries, ranging from basic retrievals to advanced analysis.  
 The goal is to demonstrate how SQL can be applied to answer real business questions and uncover insights.  
 
+![Dashboard Preview](https://github.com/<your-username>/<repo-name>/blob/main/<image-name>.png)
+
+
 ## 📂 Project Structure  
 - `queries.sql` → Contains all SQL queries (basic, intermediate, advanced).  
 - `sales_pizza_sql.pdf` → Project report with explanations and results.  
